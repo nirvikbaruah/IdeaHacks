@@ -339,6 +339,8 @@ nav ul{
 
 form{
   color: black;
+	margin-top: 30px;
+	margin: 15px;
 }
 
 @media(max-width: 600px){
