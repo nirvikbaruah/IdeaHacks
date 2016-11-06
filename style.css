@@ -339,8 +339,11 @@ nav ul{
 
 form{
   color: black;
-	margin: 15px;
 	margin-top: 30px;
+}
+
+input{
+	margin: 15px;	
 }
 
 @media(max-width: 600px){
