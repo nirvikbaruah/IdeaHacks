@@ -1,13 +1,3 @@
-@font-face {
-    font-family:"Raleway";
-    src:url("Raleway-Bold.otf");
-}
-
-@font-face {
-    font-family:"RalewayLight";
-    src:url("Raleway-Light.otf");
-}
-
 
 body, html{
     padding: 0;
@@ -42,7 +32,8 @@ nav ul li{
 
 
 nav ul li:last-of-type{
-    font-family: "Raleway";
+    font-family: 'Raleway', sans-serif;
+	font-weight: 700;
     font-size: 15px;
     width: 120px;
     color: white;
@@ -65,7 +56,6 @@ nav ul li #navbutton{
 nav ul{
 	text-decoration: none;
 	color: white;
-	upp
 }
 
 .page{
@@ -112,11 +102,13 @@ nav ul{
     color: #74cfae;
     margin: 0;
     font-size: 90px;
-    font-family: "Raleway";
+    font-family: 'Raleway', sans-serif;
+	font-weight: 700;
 }
 
 #landing h3{
-    font-family: "RalewayLight";
+    font-family: 'Raleway', sans-serif;
+	font-weight: 300;
     text-transform: uppercase;
     font-size: 30px;
     color: #8b8589;
@@ -149,7 +141,8 @@ nav ul{
 }
 
 #about h4{
-    font-family: "RalewayLight";
+    font-family: 'Raleway', sans-serif;
+	font-weight: 300;
     font-size: 24px;
     text-transform: uppercase;
     margin: 0;
@@ -196,7 +189,8 @@ nav ul{
 }
 
 #download h4{
-    font-family: "RalewayLight";
+    font-family: 'Raleway', sans-serif;
+	font-weight: 300;
     font-size: 24px;
     text-transform: uppercase;
     margin: 0;
