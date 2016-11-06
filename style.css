@@ -1,8 +1,11 @@
+*{
+	font-family: "Lato", sans-serif;
+}
 
 body, html{
     padding: 0;
     margin: 0;
-	font-family: "Lato";
+	font-family: "Lato", sans-serif;
 }
 
 nav{
